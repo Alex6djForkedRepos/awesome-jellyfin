@@ -255,6 +255,7 @@ To make changes, please edit the `assets/clients/clients.yaml` file and regenera
 | ---- | --- | ---- | ---- | --------- |
 | [JellyCon ` 🔹 `](https://github.com/jellyfin/jellycon) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/jellyfin/jellycon/total?logo=github&label=GitHub)](https://github.com/jellyfin/jellycon/releases) |
 | [Jellyfin for Kodi ` 🔹 `](https://github.com/jellyfin/jellyfin-kodi) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/jellyfin/jellyfin-kodi/total?logo=github&label=GitHub)](https://github.com/jellyfin/jellyfin-kodi/releases) |
+| [Kofin PVR for Jellyfin](https://github.com/kontell/pvr.kofin) | ✅ | ✅ | ❎ | [![github](https://img.shields.io/github/downloads/kontell/pvr.kofin/total?logo=github&label=GitHub)](https://github.com/kontell/pvr.kofin/releases) |
 
 
 ### Roku
